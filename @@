@@ -1,0 +1,13 @@
+$ git clone https://github.com/SneGit/Wad.git
+$ cd Wad
+$ git status
+$ git add .
+$ git status
+$ git commit -m "modified"
+$ git status
+$ git remote set-url origin https://tokan_iD@github.com/SneGit/Wad.git
+$ git push origin
+$ git commit -m "modified"
+$ git pull origin
+$ git status
+
